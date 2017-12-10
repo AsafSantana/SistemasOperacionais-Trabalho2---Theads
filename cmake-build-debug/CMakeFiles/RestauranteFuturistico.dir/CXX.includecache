@@ -1,0 +1,78 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Controller/Cardapio.h
+iostream
+-
+string
+-
+map
+-
+../Model/Item.h
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Model/Item.h
+
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Controller/Cozinha.h
+iostream
+-
+Pedido.h
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Controller/Pedido.h
+semaphore.h
+-
+unistd.h
+-
+stdlib.h
+-
+stdio.h
+-
+mutex
+-
+
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Controller/HostessConect.h
+iostream
+-
+queue
+-
+Cardapio.h
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Controller/Cardapio.h
+../Model/Mesa.h
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Model/Mesa.h
+Cozinha.h
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Controller/Cozinha.h
+
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Controller/Pedido.h
+iostream
+-
+string
+-
+../Model/Mesa.h
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Model/Mesa.h
+../Model/Item.h
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Model/Item.h
+
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Main/main.cpp
+iostream
+-
+../Controller/Cardapio.h
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Controller/Cardapio.h
+../Controller/HostessConect.h
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Controller/HostessConect.h
+
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Model/Item.h
+iostream
+-
+string
+-
+map
+-
+
+/cygdrive/c/Users/Asaf Santana/Trabalhos/Trabalhos_SistemasOperacionais/RestauranteFuturistico/Model/Mesa.h
+iostream
+-
+queue
+-
+
